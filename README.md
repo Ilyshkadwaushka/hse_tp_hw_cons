@@ -29,3 +29,33 @@ _Сюда добавить картинку графика_:
 * `git checkout -b develop` - создаем ветку develop и переключаемся на нее 
 * `git push origin main` - публикация коммита на github
 * `pip freeze >> requiremenets.txt` - создание файла зависимостей (если есть сторонние библиотеки)
+
+
+##### Пример yml файла для Github Actions Workflows:
+```
+name: ci
+
+on:
+  push:
+    branches: [ "master"]
+  pull_request:
+    branches: [ "master"]
+
+  workflow_dispatch:
+
+jobs:
+  test:
+    name: test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+      - name: requirements install
+        run: |
+          cd $GITHUB_WORKSPACE
+          pip install -r requirements.txt
+      - name: Run tests 
+        run: python3 -m unittest test
+```
