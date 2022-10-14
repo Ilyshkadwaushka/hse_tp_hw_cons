@@ -14,12 +14,13 @@
 ![](https://github.com/Ilyshkadwaushka/hse_tp_hw_cons/actions/workflows/ci.yml/badge.svg?branch=master)
 <br/>
 <br/>
-###_Сюда добавить картинку графика_:<br/>
+### Сюда добавить картинку графика:<br/>
 ![](https://storage.theoryandpractice.ru/tnp/uploads/image_block/000/043/965/image/base_f99e2b8fc5.jpg)
 
 
 
 ## Информация из консультации
+[Cсылка на запись консультации](https://youtu.be/GKMvz0sZBLY)
 
 #### Команды для работы с гит:
 * `git init` - инициализация гита
