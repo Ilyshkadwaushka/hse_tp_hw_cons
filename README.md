@@ -14,7 +14,7 @@
 ![](https://github.com/Ilyshkadwaushka/hse_tp_hw_cons/actions/workflows/ci.yml/badge.svg?branch=master)
 
 _Сюда добавить картинку графика_:
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheoryandpractice.ru%2Fposts%2F16436-kotiki-i-temnaya-storona-vizualizatsii-kak-grafiki-pomogayut-uproshchat-dannye-i-obmanyvat&psig=AOvVaw02KchW1z0yPul6cluhx_jp&ust=1665844144223000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDZl5X33_oCFQAAAAAdAAAAABAI)
+![](https://storage.theoryandpractice.ru/tnp/uploads/image_block/000/043/965/image/base_f99e2b8fc5.jpg)
 
 
 
