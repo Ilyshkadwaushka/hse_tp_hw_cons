@@ -11,7 +11,7 @@
 
 Пример кнопок отображения результатов для ветки main:
 `![](https://github.com/ваш_никнейм/название_репозитория/actions/workflows/название_файла_ворклоф.yml/badge.svg?branch=название_ветки)`</br>
-![](https://github.com/Ilyshkadwaushka/hse_tp_hw_cons/actions/workflows/ci.yml/badge.svg?branch=master)
+![Master branch](https://github.com/Ilyshkadwaushka/hse_tp_hw_cons/actions/workflows/ci.yml/badge.svg?branch=master)
 <br/>
 <br/>
 ### Сюда добавить картинку графика:<br/>
